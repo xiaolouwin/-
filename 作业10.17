@@ -1,10 +1,40 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>xiaolouwudi</title>
- </head>
- <body>
-    xiaoloujuwudi
- </body>
- </html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type"content="text/html;charset="UTF-8">
+        <title>小娄的作业</title>
+        <style type="text/css">
+        </style>
+    </head>
+    <h1>这是小娄的第一级标题</h1>
+    <body>
+        <p>百度一小时，赶不上学长的十秒钟</p>
+        <h2>这是小娄的第二级标题</h2>
+        <p>这有张图片，巴拉巴拉的太多了我就不打了</p>
+        <img src="https://biaoqingba.cn/wp-content/uploads/2019/08/dee14b1dd675e26-1.jpg" alt="My Image" title="My Image"/>
+       <br/>
+       <div style="width: 100px;padding: 100px;background-color:red;">这是个100px*100px的框框</div>
+        <a href="https://www.baidu.com/" >点击这个就可以进入百度</a><br/>
+        <div style="background-color:red;">红色的一行</div>
+        <div style="background-color: royalblue;">蓝色的一行</div>
+        <ul>
+            <li>我</li>
+            <li>是</li>
+            <li>一</li>
+            <li>串</li>
+            <li>列</li>
+            <li>表</li>
+            <li>啊</li>
+        </ul>
+        <input type="submit" value="一个点了也不会怎么样的按钮" name=submit><hr/>
+        <ol>
+            <li>我</li>
+            <li>是</li>
+            <li>有</li>
+            <li>序</li>
+            <li>列</li>
+            <li>表</li>
+        </ol>
+        <input type="text" name="My Name" value="文本没有什么初始值"/>
+    </body>
+</html>
