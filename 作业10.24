@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>xiaolou</title>
+    <style type="text/css">
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        #box {
+            width: 970px;
+            margin: 0 auto;
+        }
+
+        .red {
+            position: absolute;
+            width: 277px;
+            height: 103px;
+            background-color: #FF0000;
+            margin: 0 10px 10px 0;
+
+        }
+
+        .green1 {
+            position: absolute;
+            left: 1065px;
+            top: 0px;
+            width: 137px;
+            height: 49px;
+            background-color: #00FF00;
+            margin-bottom: 8px;
+
+        }
+
+        .green2 {
+            position: absolute;
+            top: 54px;
+            left: 520px;
+            width: 679px;
+            height: 46px;
+            background-color: #00FF00;
+            margin-bottom: 10px;
+
+        }
+
+        .orange {
+            position: absolute;
+            top: 110px;
+            width: 310px;
+            height: 435px;
+            background-color: #FFCC00;
+            margin-right: 10px;
+            margin-bottom: 10px;
+        }
+
+        .blue {
+            position: absolute;
+            top: 110px;
+            left: 553px;
+            width: 450px;
+            margin-right: 10px;
+
+        }
+
+        .blue1 {
+            width: 450px;
+            height: 240px;
+            background-color: #3399FF;
+            margin-bottom: 10px;
+        }
+
+        .blue2 {
+            width: 450px;
+            height: 110px;
+            background-color: #3399FF;
+            margin-bottom: 10px;
+        }
+
+        .blue3 {
+            width: 450px;
+            height: 30px;
+            background-color: #3399FF;
+            margin-bottom: 10px;
+        }
+
+        .zi {
+            position: absolute;
+            top: 110px;
+            right: 240px;
+            width: 190px;
+            height: 400px;
+            background-color: #CC3399;
+            margin-bottom: 10px;
+        }
+
+        .green3 {
+            position: absolute;
+            top: 518px;
+            left: 550px;
+            width: 650px;
+            height: 25px;
+            background-color: #339900;
+            margin-bottom: 10px;
+        }
+
+        .blue4 {
+            position: absolute;
+            top: 550px;
+            width: 970px;
+            height: 35px;
+            background-color: #000099;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="box">
+        <div class="red"></div>
+        <div class="green1"></div>
+        <div class="green2"></div>
+        <div class="orange"></div>
+        <div class="blue">
+            <div class="blue1"></div>
+            <div class="blue2"></div>
+            <div class="blue3"></div>
+        </div>
+        <div class="zi"></div>
+        <div class="green3"></div>
+        <div class="blue4"></div>
+    </div>
+</body>
+
+</html>
